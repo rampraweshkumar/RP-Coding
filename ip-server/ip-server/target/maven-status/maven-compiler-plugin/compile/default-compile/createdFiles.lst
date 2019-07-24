@@ -1,0 +1,5 @@
+com\demo\ipserver\dao\ServerRepository.class
+com\demo\ipserver\service\ServerService.class
+com\demo\ipserver\controller\ServerController.class
+com\demo\ipserver\IpServerApplication.class
+com\demo\ipserver\model\ServerDetails.class
